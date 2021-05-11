@@ -1,0 +1,43 @@
+section {
+    background-color: #181e3f;
+    width: 750px;
+    height: 440px;
+}
+header {
+    display: flex;
+}
+.logo {
+    border-radius: 50%;
+    width: 65px;
+    margin: 15px 10px 0 20px;
+}
+
+.post-items {
+    padding-top: 20px;
+    font-size: 20px;
+}
+
+.name-item {
+    color: white;
+    font-weight: bolder;
+    padding-right: 10px;
+}
+
+.nickname-item, .date-item {
+    color: lightgray;
+    padding-right: 10px;
+}
+
+.content-item {
+    color: white;
+    padding-top: 5px;
+}
+
+.container {
+    overflow: hidden;
+    height: 310px;
+    border-radius: 20px;
+    margin: 0 20px 30px 90px;
+}
+
+
